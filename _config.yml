@@ -18,11 +18,17 @@ author-image: sigbit.png  # file must be in the /assets/img/ folder
 # navigation menu
 show-nav-menu: true
 
+# internal page menu
 nav-menu:
 - text: CFP
   permalink: cfp
 - text: Committee
   permalink: committee
+
+# external menu - always shown
+nav-menu-external:
+- text: SIGBIT
+  url: https://sigbit.org/
 
 # use false to turn off any social media links
 twitter: https://twitter.com/SIGBIT_AIS
