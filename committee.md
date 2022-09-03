@@ -10,6 +10,8 @@ permalink: committee
 
 - [Shaokun Fan](https://business.oregonstate.edu/users/shaokun-fan), Oregon State University, USA
 
+- [Dominik Gutt](https://www.rsm.nl/people/dominik-gutt/), Erasmus University Rotterdam, Netherlands
+
 - [Daning Hu](https://sustchud.github.io/), Southern University of Science and Technology, China
 
 - [Harry Jiannan Wang](https://harrywang.me/), University of Delaware, USA
