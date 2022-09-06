@@ -8,7 +8,7 @@ permalink: cfp
 
 December 11, 2022, Copenhagen, Denmark
 
-(in conjunction with [International Conference on Information Systems](https://icis2022.aisconferences.org/)) 
+(Online/offline hybrid workshop in conjunction with [International Conference on Information Systems](https://icis2022.aisconferences.org/)) 
 
 Blockchain technology is flourishing into a wide spectrum of academic and industrial initiatives in many fields such as banking, insurance, manufacturing, supply chain, education, healthcare, government, etc. As a decentralized online ecosystem based on blockchain, Web3 has gained a lot of attention in recent years, which revolves around blockchain based technologies and applications such as Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), decentralized autonomous organization (DAOs), and Metaverse. Many have argued that Web3 can be a potential solution to the over-centralization of data and content in the Web 2.0 era, while others have expressed concerns about the regulation issues and new data ownership problems in a decentralized web. 
 
@@ -31,8 +31,9 @@ Topics of interest include, but are not limited to:
 
 - Submission Deadline: October 10, 2022
 - Notification of Acceptance: October 31, 2022 
-- Final Version Due: November 30, 2021 
+- Final Version Due: November 21, 2021 
+
 
 ### Submission Guideline:
 
-Authors should submit a three-page extended abstract (including figures, tables, and references) via [EasyChair](https://easychair.org/conferences/?conf=2022sigbitworkshop).
+Due to COVID-19, we have decided to run this workshop in an online/offline hybrid mode. The accepted abstract can be presented online or in-person although in-person presentation is preferred. Authors should submit a three-page extended abstract (including figures, tables, and references) via [EasyChair](https://easychair.org/conferences/?conf=2022sigbitworkshop).
