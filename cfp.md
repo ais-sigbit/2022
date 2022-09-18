@@ -6,7 +6,7 @@ permalink: cfp
 
 2022 SIGBIT Workshop on Web3 Technologies and Applications
 
-December 11, 2022, Copenhagen, Denmark
+December 10, 2022, Copenhagen, Denmark
 
 (Online/offline hybrid workshop in conjunction with [International Conference on Information Systems](https://icis2022.aisconferences.org/)) 
 

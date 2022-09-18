@@ -12,11 +12,16 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 home-title: 2022 SIGBIT Workshop on Web3 Technologies and Applications
 home-subtitle: false
-home-time-location: "December 11, 2022 | Copenhagen, Denmark"  # change to false to hide
+home-time-location: "December 10, 2022 | Copenhagen, Denmark"  # change to false to hide
 author-image: sigbit.png  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
+
+# sponsor page
+# change logos to be 800px width
+# change <img class="max-h-24"... in sponsors.html for height if needed
+show-sponsors: true
 
 # internal page menu
 nav-menu:

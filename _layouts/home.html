@@ -20,4 +20,9 @@ layout: default
 
 
 {% include social-media.html %}
+
+{% if site.show-sponsors %}
+  {% include sponsors.html %}
+{% endif %}
+
 {% include footer.html %}
