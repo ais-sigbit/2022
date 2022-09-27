@@ -29,11 +29,16 @@ nav-menu:
   permalink: cfp
 - text: Committee
   permalink: committee
+- text: Registration
+  permalink: register
 
 # external menu - always shown
 nav-menu-external:
+- text: Hotel & Travel
+  url: https://icis2022.aisconferences.org/hotel-travel/
 - text: SIGBIT
   url: https://sigbit.org/
+
 
 # use false to turn off any social media links
 twitter: https://twitter.com/SIGBIT_AIS
