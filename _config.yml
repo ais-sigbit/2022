@@ -34,6 +34,8 @@ nav-menu:
 
 # external menu - always shown
 nav-menu-external:
+- text: Program
+  url: https://harryjwang.notion.site/harryjwang/SIGBIT-2022-Workshop-Program-616c2073462c494f8703ae01f26e934e
 - text: Hotel & Travel
   url: https://icis2022.aisconferences.org/hotel-travel/
 - text: SIGBIT
